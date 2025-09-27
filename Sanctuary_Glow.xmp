@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    crs:PresetName="Sanctuary Glow"
+    crs:ProcessVersion="11.0"
+    crs:WhiteBalance="As Shot"
+    crs:Temperature="5350"
+    crs:Tint="5"
+    crs:Exposure2012="0.45"
+    crs:Contrast2012="15"
+    crs:Highlights2012="-40"
+    crs:Shadows2012="50"
+    crs:Whites2012="10"
+    crs:Blacks2012="-10"
+    crs:Clarity2012="10"
+    crs:Dehaze="5"
+    crs:Vibrance="20"
+    crs:Saturation="0"
+    crs:Sharpness="40"
+    crs:LuminanceSmoothing="25"
+    crs:ColorNoiseReduction="25"
+    crs:VignetteAmount="-15"
+    crs:LuminanceAdjustmentOrange="10"
+    crs:SaturationAdjustmentYellow="-10"
+    crs:LuminanceAdjustmentBlue="-10"
+    crs:ToneCurveName2012="Medium Contrast"
+    crs:HasSettings="True"
+    crs:SupportsAmount="True"
+    crs:ConvertToGrayscale="False"/>
+ </rdf:RDF>
+</x:xmpmeta>
