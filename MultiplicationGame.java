@@ -31,8 +31,8 @@ public class MultiplicationGame {
                 HERE ARE YOUR RESPONSES
                 -----------------------
                 """);
-        for (int index = 0; index < questionArray.toArray().length; index++) {
-            System.out.print(questionArray.get(index) + ": " + answerArray.get(index));
+        for (int index = 0; index < questionArray.toArray().length -1; index++) {
+            System.out.print(questionArray.get(index) + " " + answerArray.get(index));
             System.out.println();
         }
         System.out.println("Thank you for playing");
@@ -42,8 +42,8 @@ public class MultiplicationGame {
         SecureRandom randomNumber = new SecureRandom();
         firstNumber = randomNumber.nextInt(1, 9);
         secondNumber = randomNumber.nextInt(1, 9);
-        String question = "What is " + firstNumber + " * " + secondNumber + "?";
-        System.out.println(question);
+        String question = "What is " + firstNumber + " * " + secondNumber + " ?";
+        System.out.print(question);
         return question;
     }
 }
